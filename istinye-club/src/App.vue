@@ -49,7 +49,7 @@
       >
         <v-flex v-for="club in clubs" :key="club.id" xs4>
           <club-card :name="club.name" :img-url="club.imgUrl" :twitter="club.twitter" :instagram="club.instagram"
-                     style="background-color: #323437; min-width:400px;max-width:400px;"/>
+                     style="background-color: #323437; min-width:250px;max-width:250px;"/>
         </v-flex>
       </v-layout>
       <v-row
@@ -121,6 +121,12 @@ html, body {
 #h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
+}
+
+@media only screen and (max-width: 500px) {
+  div.v-card__title {
+    font-size: 13px;
+  }
 }
 
 </style>

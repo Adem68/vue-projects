@@ -17,7 +17,7 @@
     </v-avatar>
     <v-card-title
         class="justify-center"
-        style="color: white"
+        style="color: white;"
     >{{ name }}
     </v-card-title>
 

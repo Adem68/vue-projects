@@ -1,10 +1,10 @@
 # istinye-club
 
-[istinye.club](https://istinye.club/) wordpress version converted 2 vue.js :)  
+[istinye.club](https://istinye.club/) wordpress version converted 2 vue.js :)
 
-[demo](https://istinyeclub.vercel.app/)
+<a href="https://istinyeclub.vercel.app/" target="_blank">demo</a>
 
-###     
+
 Project setup
 
 ```

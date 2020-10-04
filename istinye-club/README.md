@@ -2,6 +2,8 @@
 
 [istinye.club](https://istinye.club/) wordpress version converted 2 vue.js :)  
 
+[demo](https://istinyeclub.vercel.app/)
+
 ###     
 Project setup
 

@@ -1,0 +1,359 @@
+[
+  {
+    "id": 0,
+    "name": "ATATÜRKÇÜ DÜŞÜNCE KULÜBÜ",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-adk-150x150.jpg",
+    "instagram": "isuataturk",
+    "twitter": null
+  },
+  {
+    "id": 1,
+    "name": "AVRUPA TIP ÖĞRENCİLERİ BİRLİĞİ",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-emsa-150x150.jpg",
+    "instagram": "emsaistinye",
+    "twitter": null
+  },
+  {
+    "id": 2,
+    "name": "Beslenme ve Diyetetik Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-bdk-150x150.jpg",
+    "instagram": "isubeslenmevediyetetik",
+    "twitter": null
+  },
+  {
+    "id": 3,
+    "name": "Beyin Araştırmaları Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-bak-150x150.jpg",
+    "instagram": "beyinarastirmalari",
+    "twitter": null
+  },
+  {
+    "id": 4,
+    "name": "Bilim Kurgu ve Fantastik Kültür Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-def-150x150.png",
+    "instagram": "isubkfk",
+    "twitter": null
+  },
+  {
+    "id": 5,
+    "name": "Cinevision Club",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-def-150x150.png",
+    "instagram": "cinevisionclub",
+    "twitter": null
+  },
+  {
+    "id": 6,
+    "name": "Çocuk Hakları ve Dayanışma Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-def-150x150.png",
+    "instagram": "isucocukhaklari",
+    "twitter": null
+  },
+  {
+    "id": 7,
+    "name": "Dans Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-dans-150x150.jpg",
+    "instagram": "isudanskulubu",
+    "twitter": null
+  },
+  {
+    "id": 8,
+    "name": "Değerler Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-degerler-150x150.png",
+    "instagram": "isudegerlerkulubu",
+    "twitter": null
+  },
+  {
+    "id": 9,
+    "name": "Dijital Video ve Sinema Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-dvs-150x150.jpg",
+    "instagram": "isucocukhaklari",
+    "twitter": null
+  },
+  {
+    "id": 10,
+    "name": "Doğa ve Kampçılık Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/dkk-150x150.jpg",
+    "instagram": "isudogavekampcilik",
+    "twitter": null
+  },
+  {
+    "id": 11,
+    "name": "Ebelik Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/ek-150x150.jpg",
+    "instagram": "isuebelikkulubu",
+    "twitter": null
+  },
+  {
+    "id": 12,
+    "name": "Engineering for Autonomous Systems",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/efas-150x150.jpg",
+    "instagram": "isu.efasclub",
+    "twitter": "isuefas"
+  },
+  {
+    "id": 13,
+    "name": "E-Spor Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-def-150x150.png",
+    "instagram": "isuespor",
+    "twitter": null
+  },
+  {
+    "id": 14,
+    "name": "Fizyoterapi ve Rehabilitasyon Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/ftr-1-150x150.png",
+    "instagram": "istinyeftr",
+    "twitter": null
+  },
+  {
+    "id": 15,
+    "name": "Genç Yeryüzü Doktorları Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/gyyd-150x150.jpg",
+    "instagram": "isugencyyd",
+    "twitter": null
+  },
+  {
+    "id": 16,
+    "name": "Girişimci Mühendisler Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/gmk-150x150.jpg",
+    "instagram": "isugmk",
+    "twitter": null
+  },
+  {
+    "id": 17,
+    "name": "Gökkuşağı Çocuk Gelişimi Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/gcgk-150x150.png",
+    "instagram": "istinyecocukgelisimi",
+    "twitter": null
+  },
+  {
+    "id": 18,
+    "name": "Havacılık ve Uzay Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/huk-150x150.jpg",
+    "instagram": "istinyehavacilik",
+    "twitter": null
+  },
+  {
+    "id": 19,
+    "name": "Hayvan Severler Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/hk-1-150x150.jpg",
+    "instagram": "isuhayvanseverler",
+    "twitter": null
+  },
+  {
+    "id": 20,
+    "name": "Hemşirelik Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-def-150x150.png",
+    "instagram": "isu.hemsirelik",
+    "twitter": null
+  },
+  {
+    "id": 21,
+    "name": "ISUPA Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isupa-150x150.png",
+    "instagram": "isupa2017",
+    "twitter": null
+  },
+  {
+    "id": 22,
+    "name": "İletişim Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/ilk-150x150.jpg",
+    "instagram": "isuilk",
+    "twitter": null
+  },
+  {
+    "id": 23,
+    "name": "İSÜ Elite Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/elite-150x150.jpg",
+    "instagram": "isueliteclub",
+    "twitter": null
+  },
+  {
+    "id": 24,
+    "name": "İSÜ Gastronomi Topluluğu Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/gastro-150x150.png",
+    "instagram": "gastro.isu",
+    "twitter": null
+  },
+  {
+    "id": 25,
+    "name": "İSÜ Genç Yeşilay Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/gencyesilay-150x150.jpg",
+    "instagram": "isugencyesilay",
+    "twitter": null
+  },
+  {
+    "id": 26,
+    "name": "İSÜ Resüsitasyon Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/rss-1-150x150.jpg",
+    "instagram": "isuresusitasyon",
+    "twitter": null
+  },
+  {
+    "id": 27,
+    "name": "İSÜ Spor Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/spor-150x150.jpg",
+    "instagram": "isusporkulubu",
+    "twitter": null
+  },
+  {
+    "id": 28,
+    "name": "İSÜ Tıp Öğrencileri Birliği Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/tob-150x150.jpg",
+    "instagram": "istinyetob",
+    "twitter": null
+  },
+  {
+    "id": 29,
+    "name": "İSÜ UniBJK Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/unibjk-150x150.jpg",
+    "instagram": "unibjkistinye",
+    "twitter": "unibjkistinye"
+  },
+  {
+    "id": 30,
+    "name": "İşletme ve Ekonomi Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/iek-150x150.jpg",
+    "instagram": "isletmekonomisu",
+    "twitter": null
+  },
+  {
+    "id": 31,
+    "name": "Liderler Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/lk-150x150.jpg",
+    "instagram": "isuliderler",
+    "twitter": null
+  },
+  {
+    "id": 32,
+    "name": "Medical Artificial Intelligence Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2019/11/story2-150x150.png",
+    "instagram": "istinyemaiclub",
+    "twitter": "istinyemaiclub"
+  },
+  {
+    "id": 33,
+    "name": "Model United Nations (MUN)",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/mun-150x150.jpg",
+    "instagram": "istinyemunclub",
+    "twitter": null
+  },
+  {
+    "id": 34,
+    "name": "Moleküler Biyoloji ve Genetik Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/mbg-150x150.jpg",
+    "instagram": "isumbgclub",
+    "twitter": null
+  },
+  {
+    "id": 35,
+    "name": "Müzik Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/muzik-150x150.jpg",
+    "instagram": "isumuzikkulubu",
+    "twitter": null
+  },
+  {
+    "id": 36,
+    "name": "Nadir Hastalıklar Araştırma Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/nadir-150x150.jpg",
+    "instagram": "isunadir",
+    "twitter": null
+  },
+  {
+    "id": 37,
+    "name": "Psikoloji Kulubü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/psikoloji-150x150.png",
+    "instagram": "isupsikolojikulubu",
+    "twitter": null
+  },
+  {
+    "id": 38,
+    "name": "Racing Team",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/racing-150x150.jpg",
+    "instagram": "isuracingteam",
+    "twitter": "isuracingteam"
+  },
+  {
+    "id": 39,
+    "name": "Siyasi Araştırmalar Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/sak-150x150.jpg",
+    "instagram": "isusiyasiarastirmalar",
+    "twitter": null
+  },
+  {
+    "id": 40,
+    "name": "Smart Cities Student Club",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/scs-150x150.jpg",
+    "instagram": "isuscsc",
+    "twitter": null
+  },
+  {
+    "id": 41,
+    "name": "Sosyal Çalışma Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-def-150x150.png",
+    "instagram": "isusosyalcalisma",
+    "twitter": null
+  },
+  {
+    "id": 42,
+    "name": "Sosyal Sorumluluk Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-def-150x150.png",
+    "instagram": "isusosyalsorumluluk",
+    "twitter": null
+  },
+  {
+    "id": 43,
+    "name": "Sürdürülebilir Yaşam Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/syk-150x150.jpg",
+    "instagram": "isusurdurulebiliryasam",
+    "twitter": null
+  },
+  {
+    "id": 44,
+    "name": "Tiyatro Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/tc-150x150.png",
+    "instagram": "isutiyatro",
+    "twitter": null
+  },
+  {
+    "id": 45,
+    "name": "Toplumsal Fayda için Yapay Zeka Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/ai4sg-150x150.jpg",
+    "instagram": "isuaiforsocialgood",
+    "twitter": null
+  },
+  {
+    "id": 46,
+    "name": "Trabzonsporlular Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/isu-def-150x150.png",
+    "instagram": "istinyeunits",
+    "twitter": null
+  },
+  {
+    "id": 47,
+    "name": "Türk Dünyası Araştırmaları Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/tdak-150x150.jpg",
+    "instagram": "isutdak",
+    "twitter": null
+  },
+  {
+    "id": 48,
+    "name": "ultrAslan Üni İstinye",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/ultra-150x150.jpg",
+    "instagram": "uauniistinye",
+    "twitter": null
+  },
+  {
+    "id": 49,
+    "name": "Uluslararası Gençlik Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/ugk-150x150.jpg",
+    "instagram": "ugkistinye",
+    "twitter": null
+  },
+  {
+    "id": 50,
+    "name": "Uluslararası İlişkiler Kulübü",
+    "imgUrl": "https://istinye.club/wp-content/uploads/2020/02/uik-150x150.jpg",
+    "instagram": "istinyeuik",
+    "twitter": null
+  }
+]

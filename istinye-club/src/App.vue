@@ -49,7 +49,7 @@
       >
         <v-flex v-for="club in clubs" :key="club.id" xs4>
           <club-card :name="club.name" :img-url="club.imgUrl" :twitter="club.twitter" :instagram="club.instagram"
-                     style="background-color: #323437; min-width:400px;max-width:450px;"/>
+                     style="background-color: #323437; min-width:400px;max-width:400px;"/>
         </v-flex>
       </v-layout>
       <v-row

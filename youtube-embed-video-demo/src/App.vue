@@ -62,7 +62,7 @@ body, html {
 .video-responsive iframe {
   left: 0;
   top: 0;
-  height: 100%;
+  height: 70%;
   width: 100%;
   position: absolute;
 }

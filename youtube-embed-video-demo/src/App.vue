@@ -9,7 +9,7 @@
     <v-footer>
       <v-spacer></v-spacer>
       <div style="font-size: 20px;">Coded by <a href="https://github.com/Adem68"
-                                                style="color: orange; text-decoration: none;">Adem Furkan ÖZCAN</a>
+                                                style="color: orange; text-decoration: none;">Adem Furkan Özcan</a>
       </div>
     </v-footer>
   </div>
@@ -25,8 +25,8 @@ export default {
   name: 'app',
   data: function () {
     return {
-      videoId: '4OkiH2yD-eQ',
-      msg: 'Acılara yürüyor korkmuyorum...',
+      videoId: 'rbjAilk31Sg',
+      msg: 'Sevmedim deme bana bana...',
     };
   }
 }
